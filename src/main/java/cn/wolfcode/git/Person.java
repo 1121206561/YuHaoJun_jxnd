@@ -3,7 +3,7 @@ package cn.wolfcode.git;
 public class Person {
 
 	public Person() {
-		// TODO Auto-generated constructor stub
+		System.out.println("第一次修改");
 	}
 
 }
